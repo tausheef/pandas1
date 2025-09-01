@@ -36,14 +36,6 @@ This project involved a rich dataset of 190+ countries with 60+ features includi
 
 ---
 
-## 📁 File Structure
-
-├── FeatureExtraction.ipynb # Anime dataset project
-├── Countries.ipynb # World countries dataset project
-└── README.md
-
----
-
 ## 🔗 Author
 
 **Tausheef Raza**  
