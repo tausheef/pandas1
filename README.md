@@ -44,11 +44,3 @@ GitHub: [@tausheef](https://github.com/tausheef)
 ---
 
 Feel free to explore and use these notebooks to get started with Pandas!
-
-"""
-
-# Write to README.md
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content.strip(), encoding="utf-8")
-
-readme_path.name
