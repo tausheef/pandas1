@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Content for README.md
-readme_content = """
 # 📊 Pandas Practice Projects
 
 This repository contains two hands-on data analysis projects built using **Pandas**, a powerful Python library for data manipulation and analysis.
@@ -42,7 +38,6 @@ This project involved a rich dataset of 190+ countries with 60+ features includi
 
 ## 📁 File Structure
 
-.
 ├── FeatureExtraction.ipynb # Anime dataset project
 ├── Countries.ipynb # World countries dataset project
 └── README.md
